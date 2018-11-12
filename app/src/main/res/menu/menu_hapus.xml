@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.magbas00044.crudmahasiswabaru.MainActivity">
+    <item
+        android:id="@+id/btnhapus"
+        android:icon="@drawable/ic_delete_forever_black_24dp"
+        android:title="Hapus"
+        app:showAsAction="always" />
+</menu>
